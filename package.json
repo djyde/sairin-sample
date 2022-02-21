@@ -6,7 +6,7 @@
     "build": "next build"
   },
   "dependencies": {
-    "@sairinjs/core": "^0.1.0",
+    "@sairinjs/core": "^0.1.1",
     "@sairinjs/sairin-theme-minimal": "^0.1.0",
     "next": "^12.1.0",
     "react": "^17.0.2",
